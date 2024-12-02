@@ -1,0 +1,13 @@
+{
+    "name": "nexussynapse",
+    "version": "0.1.0",
+    "description": "Interconnection and communication layer",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo "No tests specified yet""
+    },
+    "keywords": ["nexus", "context", "development"],
+    "author": "paclarap",
+    "license": "MIT"
+}
